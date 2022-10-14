@@ -1693,6 +1693,14 @@ var ArgumentType = {
   SLIDER_0_128: 'math_slider_0_128',
   SLIDER_0_255: 'math_slider_0_255',
   SLIDER_0_360: 'math_slider_0_360',
+  SLIDER_0_9999: 'math_slider_0_9999',
+  SLIDER_1_12: 'math_slider_1_12',
+  SLIDER_1_31: 'math_slider_1_31',
+  SLIDER_N9999999_9999999: 'math_slider_N9999999_9999999',
+  SLIDER_0_24: 'math_slider_0_24',
+  SLIDER_0_60: 'math_slider_0_60',
+  SLIDER_N999_999: 'math_slider_N999_999',
+  SLIDER_N99999_99999: 'math_slider_N99999_99999',
 
   /**
    * String value with text field
